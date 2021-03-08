@@ -36,7 +36,7 @@ for job_elem in job_elems:
     print("----------NY ANSØGNING----------" + '\n')
     print("Job titel: " + job_title)
     print("Firma information: " + job_company_info)
-    print("Rating: " + job_rating)
+    print("Rating: " + job_rating + '\n')
     print("--------------------------------")
     print('\n')
 
